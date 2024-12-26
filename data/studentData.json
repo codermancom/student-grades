@@ -1,0 +1,93 @@
+{
+  "students": [
+    {
+      "name": "Alice",
+      "age": 20,
+      "results": [
+        {
+          "subject": "English",
+          "score": 78,
+          "grade": "B"
+        },
+        {
+          "subject": "Math",
+          "score": 85,
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": 92,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "name": "Charlie",
+      "age": 21,
+      "results": [
+        {
+          "subject": "English",
+          "score": 88,
+          "grade": "A"
+        },
+        {
+          "subject": "Math",
+          "score": 85,
+          "grade": "B"
+        },
+        {
+          "subject": "Science",
+          "score": 75,
+          "grade": "C"
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "age": 22,
+      "results": [
+        {
+          "subject": "English",
+          "score": 45,
+          "grade": "F"
+        },
+        {
+          "subject": "Math",
+          "score": 50,
+          "grade": "F"
+        },
+        {
+          "subject": "Science",
+          "score": 55,
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "name": "Jane",
+      "age": 27,
+      "results": [
+        {
+          "subject": "English",
+          "score": 90,
+          "grade": "A"
+        },
+        {
+          "subject": "Math",
+          "score": 50,
+          "grade": "F"
+        },
+        {
+          "subject": "Science",
+          "score": 70,
+          "grade": "C"
+        },
+        {
+          "subject": "Photography",
+          "score": 98,
+          "grade": "A"
+        }
+      ]
+    }
+  ]
+}
